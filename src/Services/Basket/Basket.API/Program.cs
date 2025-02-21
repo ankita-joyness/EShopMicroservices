@@ -1,10 +1,7 @@
 using Basket.API.Data;
 using Basket.API.Models;
-
 using BuildingBlocks.Behaviour;
-
 using Carter;
-
 using Marten;
 
 var builder = WebApplication.CreateBuilder(args);
